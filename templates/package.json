@@ -1,0 +1,10 @@
+{
+    "name": "<%= appNameSlug %>",
+    "version": "<%= appVersion %>",
+    "scripts": {
+        "build": "boomlet index.js <%= appNameSlug %>"
+    },
+    "devDependencies": {
+        "boomlet": "^1.0.0"
+    }
+}
