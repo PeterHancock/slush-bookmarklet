@@ -1,8 +1,8 @@
-Bookmarlket <%= appNameSlug %>
------------
+Bookmarklet <%= appNameSlug %>
+===========
 
 Installation
-============
+------------
 
 npm run build
 
